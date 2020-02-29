@@ -1,0 +1,2 @@
+# CogPlus
+The objective of the game is to get a score as high as possible in 1 minute. Score is gained by aligning cogs so that 3 or more of the same color align horizontally or vertically. The game can be played at: https://veeem.github.io/CogPlus/
